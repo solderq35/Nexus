@@ -1,5 +1,3 @@
-import { useVideo } from '@100mslive/react-sdk';
-
 function Peer({ peer }: any) {
   return (
     <div className="peer-container mb-24">
